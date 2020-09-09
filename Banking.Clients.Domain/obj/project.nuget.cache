@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQ0ex1VmJRNPvFUoWVVGl8eWh1wQTmuJ92J1eOOhVLi3Nd5BbLdeTp+soVefTBWy6g3R/UG/wwnd8unE402TEg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Github\\Sample_CQRS\\Banking.Clients.Domain\\Banking.Clients.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

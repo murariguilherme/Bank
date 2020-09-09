@@ -1,0 +1,9 @@
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\bin\Debug\netcoreapp3.1\Sample_CQRS.Application.deps.json
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\bin\Debug\netcoreapp3.1\Sample_CQRS.Application.dll
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\bin\Debug\netcoreapp3.1\Sample_CQRS.Application.pdb
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\obj\Debug\netcoreapp3.1\Sample_CQRS.Application.csprojAssemblyReference.cache
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\obj\Debug\netcoreapp3.1\Sample_CQRS.Application.AssemblyInfoInputs.cache
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\obj\Debug\netcoreapp3.1\Sample_CQRS.Application.AssemblyInfo.cs
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\obj\Debug\netcoreapp3.1\Sample_CQRS.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\obj\Debug\netcoreapp3.1\Sample_CQRS.Application.dll
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Application\obj\Debug\netcoreapp3.1\Sample_CQRS.Application.pdb

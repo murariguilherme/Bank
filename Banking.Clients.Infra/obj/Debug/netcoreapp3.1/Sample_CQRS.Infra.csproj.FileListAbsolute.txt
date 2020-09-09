@@ -1,0 +1,15 @@
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Domain.dll
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.csprojAssemblyReference.cache
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.AssemblyInfoInputs.cache
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.AssemblyInfo.cs
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Infra.deps.json
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Infra.runtimeconfig.json
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Infra.runtimeconfig.dev.json
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Infra.dll
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Infra.pdb
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\bin\Debug\netcoreapp3.1\Sample_CQRS.Domain.pdb
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.csproj.CoreCompileInputs.cache
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.csproj.CopyComplete
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.dll
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.pdb
+C:\Projects\Github\Sample_CQRS\Sample_CQRS.Infra\obj\Debug\netcoreapp3.1\Sample_CQRS.Infra.genruntimeconfig.cache
