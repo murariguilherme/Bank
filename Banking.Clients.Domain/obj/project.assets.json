@@ -24,6 +24,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "FluentValidation": "9.2.0",
           "Mediatr": "8.1.0"
         },
         "compile": {

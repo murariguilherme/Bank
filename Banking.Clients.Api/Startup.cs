@@ -13,6 +13,11 @@ using Banking.Core.Communication;
 using Microsoft.AspNetCore.Http;
 using Banking.Clients.Api.Configuration;
 using Banking.Clients.Api.Data;
+using Banking.Clients.Domain;
+using Banking.Clients.Infra;
+using Banking.Clients.Infra.Repository;
+using AutoMapper;
+using Banking.Clients.Application.Commands;
 
 namespace Banking.Api
 {
@@ -33,10 +38,14 @@ namespace Banking.Api
             services.AddIdentityConfig(Configuration);
             services.AddScoped<IMediatorHandler, MediatorHandler>();
             services.AddScoped<INotificationHandler<DomainNotification>, DomainNotificationHandler>();
+            services.AddScoped<IRequestHandler<UpdateClientCommand, bool>, ClientCommandHandler>();
             services.AddScoped<ApplicationDbContext>();
             services.AddScoped<MyIdentityDbContext>();
             services.AddScoped<IUser, AspNetUser>();
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped<IRepository<Client>, ClientRepository>();
+            services.AddScoped<IClientRepository, ClientRepository>();
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));            

@@ -5,9 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
     <Folder Include="Events\" />
     <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Automapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Banking.Clients.Domain\Banking.Clients.Domain.csproj" />
+    <ProjectReference Include="..\Banking.Core\Banking.Core.csproj" />
   </ItemGroup>
 
 </Project>

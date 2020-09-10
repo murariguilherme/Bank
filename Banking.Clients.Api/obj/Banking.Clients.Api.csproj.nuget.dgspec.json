@@ -45,6 +45,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.0, )"
@@ -124,7 +132,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\Github\\Sample_CQRS\\Banking.Clients.Domain\\Banking.Clients.Domain.csproj": {
+                "projectPath": "C:\\Projects\\Github\\Sample_CQRS\\Banking.Clients.Domain\\Banking.Clients.Domain.csproj"
+              },
+              "C:\\Projects\\Github\\Sample_CQRS\\Banking.Core\\Banking.Core.csproj": {
+                "projectPath": "C:\\Projects\\Github\\Sample_CQRS\\Banking.Core\\Banking.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -135,6 +150,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Automapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -266,6 +287,10 @@
               "target": "Package",
               "version": "[3.1.8, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlserver": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -326,6 +351,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
             "Mediatr": {
               "target": "Package",
               "version": "[8.1.0, )"

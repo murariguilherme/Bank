@@ -1,0 +1,12 @@
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\bin\Debug\netcoreapp3.1\Banking.Clients.Domain.deps.json
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\bin\Debug\netcoreapp3.1\Banking.Clients.Domain.dll
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\bin\Debug\netcoreapp3.1\Banking.Clients.Domain.pdb
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\bin\Debug\netcoreapp3.1\Banking.Core.dll
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\bin\Debug\netcoreapp3.1\Banking.Core.pdb
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.csprojAssemblyReference.cache
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.AssemblyInfoInputs.cache
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.AssemblyInfo.cs
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.csproj.CopyComplete
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.dll
+C:\Projects\Github\Sample_CQRS\Banking.Clients.Domain\obj\Debug\netcoreapp3.1\Banking.Clients.Domain.pdb

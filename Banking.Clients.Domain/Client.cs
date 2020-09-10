@@ -8,32 +8,16 @@ namespace Banking.Clients.Domain
         public string Name { get; private set; }
         public DateTime Birthday { get; private set; }
         public string Passport { get; private set; }
+        public Address Address { get; set; }
 
-        public Client(string name, DateTime birthday, string passport)
+        public Client(string name, DateTime birthday, string passport, Address address)
         {
             this.Name = name;
             this.Birthday = birthday;
             this.Passport = passport;
-
-            var validator = new ClientValidator();           
+            this.Address = address;
         }
-    }
 
-    public class ClientValidator : AbstractValidator<Client>
-    {
-        public ClientValidator()
-        {
-            RuleFor(c => c.Name)
-                .NotEmpty()
-                .WithMessage("Invalid name.");
-
-            RuleFor(c => c.Birthday)
-                .NotEmpty()
-                .WithMessage("Invalid birthday.");
-
-            RuleFor(c => c.Passport)
-                .NotEmpty()
-                .WithMessage("Invalid passport.");
-        }
+        public Client() { }
     }
 }

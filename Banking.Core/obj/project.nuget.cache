@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAt3CkqgEo9O9+eYjigw4TiX+JQxnHmuc4ofW0WAbwD7UIDCcNx/cIvgh+x+PV2YMT4ljgg3c30oq05iskQG8w==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Github\\Sample_CQRS\\Banking.Core\\Banking.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
