@@ -25,5 +25,14 @@ namespace Banking.Clients.Tests
             );
             Assert.Equal("Invalid passport.", ex.Message);
         }
+
+        [Fact]
+        public void Clients_Validaton_MustNotReturnExceptionAsync()
+        {
+            var ex = Record.Exception(() =>
+                new Client("Ben Afleck", new DateTime(1996, 04, 18), "CA99999AA")
+            );            
+            Assert.Null(ex);
+        }
     }
 }

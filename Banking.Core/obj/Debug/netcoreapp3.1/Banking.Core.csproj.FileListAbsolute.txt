@@ -1,9 +1,0 @@
-C:\Projects\Github\Sample_CQRS\Banking.Core\bin\Debug\netcoreapp3.1\Banking.Core.deps.json
-C:\Projects\Github\Sample_CQRS\Banking.Core\bin\Debug\netcoreapp3.1\Banking.Core.dll
-C:\Projects\Github\Sample_CQRS\Banking.Core\bin\Debug\netcoreapp3.1\Banking.Core.pdb
-C:\Projects\Github\Sample_CQRS\Banking.Core\obj\Debug\netcoreapp3.1\Banking.Core.csprojAssemblyReference.cache
-C:\Projects\Github\Sample_CQRS\Banking.Core\obj\Debug\netcoreapp3.1\Banking.Core.AssemblyInfoInputs.cache
-C:\Projects\Github\Sample_CQRS\Banking.Core\obj\Debug\netcoreapp3.1\Banking.Core.AssemblyInfo.cs
-C:\Projects\Github\Sample_CQRS\Banking.Core\obj\Debug\netcoreapp3.1\Banking.Core.csproj.CoreCompileInputs.cache
-C:\Projects\Github\Sample_CQRS\Banking.Core\obj\Debug\netcoreapp3.1\Banking.Core.dll
-C:\Projects\Github\Sample_CQRS\Banking.Core\obj\Debug\netcoreapp3.1\Banking.Core.pdb

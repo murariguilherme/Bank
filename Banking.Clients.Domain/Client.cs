@@ -1,13 +1,9 @@
 ﻿using Banking.Core.DomainObjects;
 using FluentValidation;
-using Banking.Clients.Domain;
 using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace Banking.Clients.Domain
 {
-    public class Client : Entity
+    public class Client : Entity, IAggregationRoot
     {
         public string Name { get; private set; }
         public DateTime Birthday { get; private set; }
@@ -19,13 +15,7 @@ namespace Banking.Clients.Domain
             this.Birthday = birthday;
             this.Passport = passport;
 
-            var validator = new ClientValidator();
-            var result = validator.Validate(this);
-            
-            foreach (var error in result.Errors)
-            {
-                throw new DomainException(error.ErrorMessage);
-            }
+            var validator = new ClientValidator();           
         }
     }
 

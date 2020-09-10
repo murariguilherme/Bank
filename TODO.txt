@@ -1,0 +1,10 @@
+Mini sistema bancário
+	- Um cliente vai solicitar abrir uma conta (pode ser recusado ou aprovado, dependendo do score)
+	- Se for recusado: 
+		- Só pode tenta daqui 6 meses novamente
+	- Se for aceito:
+		- Vai receber uma agencia e conta
+		- Pode solicitar um cartão de crédito/débito
+		- Pode depositar dinheiro
+		- Pode transferir dinheiro pra uma outra conta
+		- Pode sacar até 1000 reais por dia
